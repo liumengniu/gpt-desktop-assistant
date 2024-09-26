@@ -10,7 +10,7 @@ function App() {
   return (
     <Provider store={store}>
       <div className="App">
-        <webview id="webview" src={"https://preview.pro.ant.design/dashboard/analysis/"} />
+        <webview id="webview" src={"https://chatgpt.com/"} />
       </div>
     </Provider>
   );
